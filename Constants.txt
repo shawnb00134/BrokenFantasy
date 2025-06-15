@@ -1,0 +1,18 @@
+Constants
+
+Save file location
+Character Name - user input
+World Map location (placement of tiles from tile sheet)
+Tile Sheet location
+Sprite Sheet location
+
+
+-Animations-
+Movement speed
+Weapon attack speed
+Magic attack speed
+Enemy movement speed
+Enemy attack speed
+Enemy magic speed
+
+-Tile/Sprites-
