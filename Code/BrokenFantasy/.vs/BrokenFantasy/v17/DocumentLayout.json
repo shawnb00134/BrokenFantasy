@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FF40180-7838-4683-A39A-463BFBE30B42}|BrokenFantasy\\BrokenFantasy.vcxproj|D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\BrokenFantasy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0FF40180-7838-4683-A39A-463BFBE30B42}|BrokenFantasy\\BrokenFantasy.vcxproj|solutionrelative:BrokenFantasy\\BrokenFantasy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0FF40180-7838-4683-A39A-463BFBE30B42}|BrokenFantasy\\BrokenFantasy.vcxproj|D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0FF40180-7838-4683-A39A-463BFBE30B42}|BrokenFantasy\\BrokenFantasy.vcxproj|solutionrelative:BrokenFantasy\\View\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -35,46 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Menu.cpp",
-              "DocumentMoniker": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Menu.cpp",
-              "RelativeDocumentMoniker": "BrokenFantasy\\View\\Menu.cpp",
-              "ToolTip": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Menu.cpp",
-              "RelativeToolTip": "BrokenFantasy\\View\\Menu.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-15T19:06:14.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BrokenFantasy.cpp",
-              "DocumentMoniker": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\BrokenFantasy.cpp",
-              "RelativeDocumentMoniker": "BrokenFantasy\\BrokenFantasy.cpp",
-              "ToolTip": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\BrokenFantasy.cpp",
-              "RelativeToolTip": "BrokenFantasy\\BrokenFantasy.cpp",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAG8AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-11T00:57:00.464Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 233,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Menu.h",
               "DocumentMoniker": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Menu.h",
               "RelativeDocumentMoniker": "BrokenFantasy\\View\\Menu.h",
               "ToolTip": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Menu.h",
               "RelativeToolTip": "BrokenFantasy\\View\\Menu.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-15T18:27:11.244Z",
+              "WhenOpened": "2025-06-16T22:06:28.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Menu.cpp",
+              "RelativeDocumentMoniker": "BrokenFantasy\\View\\Menu.cpp",
+              "ToolTip": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Menu.cpp",
+              "RelativeToolTip": "BrokenFantasy\\View\\Menu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T22:06:26.585Z",
               "EditorCaption": ""
             }
           ]
