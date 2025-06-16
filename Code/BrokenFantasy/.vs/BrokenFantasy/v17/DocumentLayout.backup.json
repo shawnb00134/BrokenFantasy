@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0FF40180-7838-4683-A39A-463BFBE30B42}|BrokenFantasy\\BrokenFantasy.vcxproj|D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FF40180-7838-4683-A39A-463BFBE30B42}|BrokenFantasy\\BrokenFantasy.vcxproj|solutionrelative:BrokenFantasy\\View\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF40180-7838-4683-A39A-463BFBE30B42}|BrokenFantasy\\BrokenFantasy.vcxproj|D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FF40180-7838-4683-A39A-463BFBE30B42}|BrokenFantasy\\BrokenFantasy.vcxproj|solutionrelative:BrokenFantasy\\View\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF40180-7838-4683-A39A-463BFBE30B42}|BrokenFantasy\\BrokenFantasy.vcxproj|D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\Manager\\MenuManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FF40180-7838-4683-A39A-463BFBE30B42}|BrokenFantasy\\BrokenFantasy.vcxproj|solutionrelative:BrokenFantasy\\Manager\\MenuManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF40180-7838-4683-A39A-463BFBE30B42}|BrokenFantasy\\BrokenFantasy.vcxproj|D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\Manager\\MenuManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FF40180-7838-4683-A39A-463BFBE30B42}|BrokenFantasy\\BrokenFantasy.vcxproj|solutionrelative:BrokenFantasy\\Manager\\MenuManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0FF40180-7838-4683-A39A-463BFBE30B42}|BrokenFantasy\\BrokenFantasy.vcxproj|D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\BrokenFantasy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0FF40180-7838-4683-A39A-463BFBE30B42}|BrokenFantasy\\BrokenFantasy.vcxproj|solutionrelative:BrokenFantasy\\BrokenFantasy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF40180-7838-4683-A39A-463BFBE30B42}|BrokenFantasy\\BrokenFantasy.vcxproj|D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0FF40180-7838-4683-A39A-463BFBE30B42}|BrokenFantasy\\BrokenFantasy.vcxproj|solutionrelative:BrokenFantasy\\View\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF40180-7838-4683-A39A-463BFBE30B42}|BrokenFantasy\\BrokenFantasy.vcxproj|D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0FF40180-7838-4683-A39A-463BFBE30B42}|BrokenFantasy\\BrokenFantasy.vcxproj|solutionrelative:BrokenFantasy\\View\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,46 +43,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Menu.cpp",
-              "DocumentMoniker": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Menu.cpp",
-              "RelativeDocumentMoniker": "BrokenFantasy\\View\\Menu.cpp",
-              "ToolTip": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Menu.cpp",
-              "RelativeToolTip": "BrokenFantasy\\View\\Menu.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-15T19:06:14.941Z",
+              "Title": "Button.h",
+              "DocumentMoniker": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Button.h",
+              "RelativeDocumentMoniker": "BrokenFantasy\\View\\Button.h",
+              "ToolTip": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Button.h",
+              "RelativeToolTip": "BrokenFantasy\\View\\Button.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-16T22:03:33.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Button.cpp",
+              "DocumentMoniker": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Button.cpp",
+              "RelativeDocumentMoniker": "BrokenFantasy\\View\\Button.cpp",
+              "ToolTip": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Button.cpp",
+              "RelativeToolTip": "BrokenFantasy\\View\\Button.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T22:03:31.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuManager.cpp",
+              "DocumentMoniker": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\Manager\\MenuManager.cpp",
+              "RelativeDocumentMoniker": "BrokenFantasy\\Manager\\MenuManager.cpp",
+              "ToolTip": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\Manager\\MenuManager.cpp",
+              "RelativeToolTip": "BrokenFantasy\\Manager\\MenuManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T21:57:53.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuManager.h",
+              "DocumentMoniker": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\Manager\\MenuManager.h",
+              "RelativeDocumentMoniker": "BrokenFantasy\\Manager\\MenuManager.h",
+              "ToolTip": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\Manager\\MenuManager.h",
+              "RelativeToolTip": "BrokenFantasy\\Manager\\MenuManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-16T21:55:03.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BrokenFantasy.cpp",
               "DocumentMoniker": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\BrokenFantasy.cpp",
               "RelativeDocumentMoniker": "BrokenFantasy\\BrokenFantasy.cpp",
               "ToolTip": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\BrokenFantasy.cpp",
               "RelativeToolTip": "BrokenFantasy\\BrokenFantasy.cpp",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAHEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-11T00:57:00.464Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 233,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Menu.h",
-              "DocumentMoniker": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Menu.h",
-              "RelativeDocumentMoniker": "BrokenFantasy\\View\\Menu.h",
-              "ToolTip": "D:\\Development\\BrokenFantasy\\Code\\BrokenFantasy\\BrokenFantasy\\View\\Menu.h",
-              "RelativeToolTip": "BrokenFantasy\\View\\Menu.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-15T18:27:11.244Z",
               "EditorCaption": ""
             }
           ]

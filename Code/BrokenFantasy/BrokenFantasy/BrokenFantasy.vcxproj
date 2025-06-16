@@ -134,9 +134,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BrokenFantasy.cpp" />
+    <ClCompile Include="Manager\MenuManager.cpp" />
+    <ClCompile Include="View\Button.cpp" />
     <ClCompile Include="View\Menu.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Manager\MenuManager.h" />
+    <ClInclude Include="View\Button.h" />
     <ClInclude Include="View\Menu.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

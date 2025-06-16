@@ -3,6 +3,8 @@
 #include <raylib.h>
 #include <string>
 
+#include "Button.h"
+
 namespace View
 {
 	class Menu
@@ -14,11 +16,8 @@ namespace View
 		std::string getScreenTitle() const;
 	private:
 		Texture2D background;
-		//Texture2D title;
-		Texture2D startButton;
-		Texture2D exitButton;
-		Vector2 startButtonPos;
-		Vector2 exitButtonPos;
+		Button startButton;
+		Button exitButton;
 		std::string screenTitle;
 	};
 }

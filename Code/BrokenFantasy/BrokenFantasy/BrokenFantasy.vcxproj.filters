@@ -45,10 +45,22 @@
     <ClCompile Include="View\Menu.cpp">
       <Filter>Source Files\View</Filter>
     </ClCompile>
+    <ClCompile Include="View\Button.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager\MenuManager.cpp">
+      <Filter>Source Files\Manager</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="View\Menu.h">
       <Filter>Header Files\View</Filter>
+    </ClInclude>
+    <ClInclude Include="View\Button.h">
+      <Filter>Header Files\View</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager\MenuManager.h">
+      <Filter>Header Files\Manager</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
